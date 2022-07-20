@@ -1,1 +1,30 @@
 # Int_sist_comp
+
+
+# Arquivos:
+SIMULADOR_PROC-R03:  simulador do processador com os comandos corrigidos.
+
+Tab_vdd_py: Tabela Verdade/ Simulador de memória da máquina de estados do alarme
+
+Circuito_E0_E1: Estados E0 e E1 do alarme
+
+comandos_py: Comandos Store, Store_index e Load_index
+
+divisor_py: Divisor implementado em python
+
+multiplicador: Multiplicador implementado em python
+
+
+
+
+
+
+```
+cd existing_repo
+git remote add origin https://gitlab.com/arthurhr/int_sist_comp.git
+git branch -M main
+git push -uf origin main
+```
+
+
+***
