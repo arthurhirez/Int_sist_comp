@@ -6,6 +6,7 @@
 - Anotações feitas ao longo do semestre (desorganizadas - mas o mais importante foi entender o que foi passado);
 - Desenhos diversos de circuitos;
 - Esquemas de registradores/arquitetura;
+- Complemento de 2, porta Xor com 3 entradas (soma de produtos) entre outras atividades;
 - Apontamentos diversos
 
 
