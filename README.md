@@ -2,6 +2,8 @@
 
 
 # Arquivos:
+Notas de aula: anotações feitas ao longo do semestre (desorganizadas - mas o mais importante foi entender o que foi passado)
+
 SIMULADOR_PROC-R03:  simulador do processador com os comandos corrigidos.
 
 Tab_vdd_py: Tabela Verdade/ Simulador de memória da máquina de estados do alarme
