@@ -14,6 +14,12 @@ divisor_py: Divisor implementado em python
 
 multiplicador: Multiplicador implementado em python
 
+circuito_somador: imagem circuito falstad
+
+add_carry: circuito somador em falstad
+
+
+
 
 
 
