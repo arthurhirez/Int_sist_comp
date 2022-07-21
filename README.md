@@ -26,6 +26,14 @@
 
 - add_carry: circuito somador em falstad
 
+## Jogo Assembly:
+Jogo simples, baseado no exemplo da nave que tem no Git do profº Simões.
+Vídeo de explicação no git do Bruno
+
+Adaptações realizadas:
+- Direcionamento da nave e do tiro;
+- Fundo do jogo;
+- Caracteres da nave e do alien;
 
 
 
