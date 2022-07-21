@@ -29,6 +29,7 @@
 
 ## Jogo Assembly:
 Jogo simples, baseado no exemplo da nave que tem no Git do profº Simões.
+Pouca criatividade mas deu pra treinar programar em assembly e entender a lógica de alocar dados em registradores, comandos push/pop/jump/cmp/mod,etc;
 Vídeo de explicação no git do Bruno
 
 Adaptações realizadas:
